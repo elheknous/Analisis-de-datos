@@ -1,0 +1,11 @@
+Este es un archivo de prueba.
+
+Contiene 29 palabras y 26 palabras diferentes.
+
+Contiene además 174 caracteres.
+
+Tiene en total 11 lineas.
+
+Esta es casi la última linea.
+
+FIN
