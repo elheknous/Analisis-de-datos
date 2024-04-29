@@ -1,0 +1,5 @@
+campo1=1
+campo2=2
+campo3=3
+campo5=4
+campo_texto=python
